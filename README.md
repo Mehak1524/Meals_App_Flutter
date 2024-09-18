@@ -75,6 +75,3 @@ Make sure you have Flutter installed. If not, refer to the official [Flutter doc
 - **Dark Mode**: Implement a dark mode for better accessibility and user experience.
 - **Animations**: Add smooth transitions and animations for a more engaging UI experience.
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
